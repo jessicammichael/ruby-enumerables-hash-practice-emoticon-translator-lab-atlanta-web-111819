@@ -6,7 +6,7 @@ end
 
 def get_japanese_emoticon
   # Japanese.emoticon.yml
-  - "O:)"      
+  - "O:)"
   - "☜(⌒▽⌒)☞"
 
   - ">:("
@@ -18,7 +18,7 @@ def get_japanese_emoticon
   - "%)"
   - "(゜.゜)"
 
-  - ":$" 
+  - ":$"
   - "(#^.^#)"
 
   - "><>"
@@ -63,7 +63,7 @@ def get_english_meaning
   - glasses:
 
   - grinning
-  
+
   - happy:
 
   - kiss:
